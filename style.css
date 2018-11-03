@@ -50,8 +50,8 @@ blockquote:after { content: '"'; }
   -moz-border-radius: 100px;
   border-radius: 10px;
   border:10px solid #222;
-    width: 351px;
-    height: 257px;
+    width: 400px;
+    height: 300px;
 }
 #wakeUpTimeSelector, #lunchTimeSelector, #napTimeSelector {
   padding: 10px 0;
